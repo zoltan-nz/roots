@@ -1,7 +1,9 @@
 {
     "name": "retlehs/roots",
     "type": "wordpress-theme",
+    "version": "6.3.0"
     "require": {
+        "php": ">=5.2.4",
         "composer/installers": "~1.0"
     }
 }
