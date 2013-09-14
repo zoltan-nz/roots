@@ -72,3 +72,7 @@ There are several ways you can contribute:
 
 Use the [Google Group](http://groups.google.com/group/roots-theme) to ask
 questions and get support.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/szines/roots/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
